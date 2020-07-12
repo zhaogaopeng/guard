@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/study?characterEncoding=utf8&characterSetResults=utf8&autoReconnect=true&failOverReadOnly=false
+    data-username: root
+    data-password: root
+
+person:
+  name: tom
+  age: 16
+
+server:
+  port:8080
+
+
+
